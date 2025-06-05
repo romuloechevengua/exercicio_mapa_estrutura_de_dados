@@ -52,9 +52,6 @@ Módulo collections.deque
 
 📁 Como Executar
 
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/fila-acougue.git
 cd fila-acougue
 python fila_acougue.py
