@@ -45,11 +45,13 @@ Um aluno chamado **Murilo Luz** desenvolveu uma versão funcional inicial, poré
 ---
 
 🛠 Tecnologias Utilizadas
+
 Python 3.10+
 
 Módulo collections.deque
 
 📁 Como Executar
+
 bash
 Copiar
 Editar
@@ -58,9 +60,11 @@ cd fila-acougue
 python fila_acougue.py
 
 📖 Referências
+
 CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos: Teoria e Prática. 3. ed. Rio de Janeiro: Elsevier, 2012.
 
 ZIVIANI, N. Projeto de Algoritmos: com Implementações em Pascal e C. 3. ed. Cengage Learning, 2011.
 
 ✍️ Autor
+
 Desenvolvido por Rômulo Echevenguá como exercício prático de estrutura de dados em Python.
