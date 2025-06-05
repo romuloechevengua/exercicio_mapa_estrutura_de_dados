@@ -1,4 +1,4 @@
-# exerciciomapa
+# exercício-mapa
 Resolver os problemas encontrados no código
 
 # 🐄 Sistema de Controle de Fila — Açougue Bom Preço
